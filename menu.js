@@ -10,7 +10,7 @@ const rl = readline.createInterface({
 });
 
 function menu () {
-  console.log('Bem vindo ao menu interativo!');
+  console.log('Menu inicial!');
   console.log('1. Desafio Fibonacci');
   console.log('2. Desafio contador de ocorrências da letra "a"');
   console.log('3. Sair');
